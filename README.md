@@ -8,7 +8,8 @@ This is my first project in Dsa🖥️
 
 
 Q1. Stack Using Array
-Definition of Stack
+answer
+definition on stack
 A Stack is a linear data structure in which insertion and deletion of elements are performed only from one end, called the TOP. A stack follows the LIFO (Last In, First Out) principle, which means the element inserted last is removed first.
 Example:
        TOP
@@ -85,7 +86,7 @@ Visit all elements
 Overall Space Complexity: O(n) because an array of size n is used to store the stack elements.
 
 
-
+{Question second}
 Circular Queue Using Array
 
 Description
