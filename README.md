@@ -86,8 +86,7 @@ Visit all elements
 Overall Space Complexity: O(n) because an array of size n is used to store the stack elements.
 
 
-{Question second}
-Circular Queue Using Array
+Q2..Circular Queue Using Array
 
 Description
 
